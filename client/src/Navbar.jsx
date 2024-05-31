@@ -1,10 +1,10 @@
 import React from 'react'
-import './Navbar.css'
+// import './Navbar.css'
 
 function Navbar() {
   return (
     <>
-      <div className='navigation'>
+      <div className='navigation '>
         <div className='navigation--left'>
             <p className='logo'>Epic <span>Worlds</span></p>
             <ul className='navigation--item'>

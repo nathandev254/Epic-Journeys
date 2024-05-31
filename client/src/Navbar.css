@@ -11,6 +11,7 @@
 .navigation--left{
     display: flex;
     margin-left: 20px;
+    align-items: center;
     /* border: 1px solid blue; */
     padding: 5px 10px;
 }
